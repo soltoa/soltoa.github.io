@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://soltoa.github.io/Tph/sitemap.Tph.gz
